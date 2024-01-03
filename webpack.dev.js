@@ -20,12 +20,12 @@ module.exports = {
         filename: "main.js",
     },
 
-    // devServer: {
-    //     static: './dist',
-    //     hot: true,
-    //     port: 3001,
-    //     open: true,
-    // },    
+    devServer: {
+        static: "./dist",
+        hot: true,
+        port: 3001,
+        open: true,
+    },    
 
     plugins : [
         // new HtmlWebpackPlugin({
