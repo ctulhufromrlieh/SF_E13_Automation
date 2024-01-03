@@ -4,7 +4,9 @@ Skill factory E13.7 task - automation
 
 ## Installation
 
-123
+Execute these commands in terminal:
+1. "npm install"
+2. "npm run prepare-husky"
 
 ## Usage
 
