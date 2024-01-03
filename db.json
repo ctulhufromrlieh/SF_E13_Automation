@@ -1,0 +1,8 @@
+{
+    "languages": [
+      { "id": 1, "name": "c++", "interpreterType": "compiler" },
+      { "id": 2, "name": "delphi", "interpreterType": "compiler" },
+      { "id": 3, "name": "python", "interpreterType": "translator" },
+      { "id": 4, "name": "javascript", "interpreterType": "translator"}
+    ]
+  }
